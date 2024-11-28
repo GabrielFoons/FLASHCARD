@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'One Piece',
+    'Qual é o principal objetivo de Luffy em One Piece?',
+    'Luffy quer encontrar o One Piece, o lendário tesouro deixado pelo Rei dos Piratas, Gol D. Roger, e se tornar o próximo Rei dos Piratas.'
 )
 
 criaCartao(
